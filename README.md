@@ -1,3 +1,6 @@
+Afolami Oluwateniola Hannah 
+24/15643
+Computer Science 
 # Student Registration Portal
 
 A Python-based student registration system that demonstrates the Software Development Life Cycle (SDLC) process. This command-line application allows users to register students and view registered student records.
